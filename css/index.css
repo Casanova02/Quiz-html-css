@@ -1,0 +1,30 @@
+.baraNav{
+    margin: 8px;
+    padding: 8px;
+}
+
+.barraNav li{
+    display: inline-block;
+    font-weight: bold;
+    font-size: 20px;
+    margin-left: 30px;
+}
+
+.cuerpo{
+    margin: 0% 10%;
+    text-align: center;
+}
+
+.cuerpo table{
+    margin:auto;
+    border:black 1px solid;
+
+}
+
+.cuerpo table tr{
+    border:black 1px solid;
+}
+
+.cuerpo table tr td{
+    padding: 10px;
+}

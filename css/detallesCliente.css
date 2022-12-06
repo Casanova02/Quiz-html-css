@@ -1,0 +1,16 @@
+.baraNav{
+    margin: 8px;
+    padding: 8px;
+}
+
+.barraNav li{
+    display: inline-block;
+    font-weight: bold;
+    font-size: 20px;
+    margin-left: 30px;
+}
+
+.cuerpo{
+    margin: 0% 10%;
+    text-align: center;
+}
